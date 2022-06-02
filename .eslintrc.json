@@ -1,3 +1,12 @@
 {
-  "extends": "next/core-web-vitals"
+  "extends": ["next", "next/core-web-vitals", "eslint:recommended"],
+  // not woran when we import react and not used in
+  "globals": {
+    "React": "readonly"
+  },
+  // tunrning of elsint warnings on or off
+  // off by setting them to 0 and on by setting them to 1
+  "rules": {
+    "no-unused-vars": [1, { "args": "after-used", "argsIgnorePattern": "^_" }]
+  }
 }
