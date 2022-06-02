@@ -1,34 +1,34 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# About NextOne
 
-## Getting Started
+NextOne is an innovation-led technology solution provider that has a fully
+staffed, highly skilled IT, Scientist, and Engineering team that discovers the
+technological answers to the most challenging challenges your business faces
+with extensive experience in the fields of Creative & Media, Information
+Systems, and Consulting & Training Services.
 
-First, run the development server:
+## About this Repo
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+This repo is Next Dashboard, is where all our finances hr, employess and clients
+we can manage, it is internal software for our company, only staf can used,
+later on we can expand sections to our customers can create thier private
+accounts, logIn, manage projects we do with them, and store `nextOne` only
+materials.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Our Social media
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+please also check my social networks with this tag`next1tecs`
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+- <https://www.facebook.com/next1tcs>
+- <https://www.instagram.com/next1tcs>
+- <https://www.linkedin.com/in/next1tcs>
+- <https://www.twitter.com/next1tcs>
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## CLone
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- Incase You Need to Clone or Download this project
+- Make sure `node` Is installed on your computer
+- Open Terminal with in the folder and type `yarn install` to install all
+  dependecies
+- you should only user `yarn` not `npm`
+- type `yarn run dev` to run the application on a local host
+- and dont forget to give this repo a star
