@@ -1,27 +1,25 @@
-# About NextOne
+# About This Template
 
-NextOne is an innovation-led technology solution provider that has a fully
-staffed, highly skilled IT, Scientist, and Engineering team that discovers the
-technological answers to the most challenging challenges your business faces
-with extensive experience in the fields of Creative & Media, Information
-Systems, and Consulting & Training Services.
+This is a starter Template for next js projects, configure with alot of predefined packages, to easy for your development enviroment, you will only focus on the development rather then setupping.
 
-## About this Repo
+## Features of this Repo
 
-This repo is Next Dashboard, is where all our finances hr, employess and clients
-we can manage, it is internal software for our company, only staf can used,
-later on we can expand sections to our customers can create thier private
-accounts, logIn, manage projects we do with them, and store `nextOne` only
-materials.
+This template Comes with predefined features
 
-## Our Social media
+- Tailwind Css
+- SCSS
+- TypeScript
+- Code Formatting and Quality Tools - esLint & Prettier -
+- Git Hooks Using Huskey
+- Engine Locking
+- VS Code Configuration
+- Debugging
 
-please also check my social networks with this tag`next1tecs`
+## More Inforamtion
 
-- <https://www.facebook.com/next1tcs>
-- <https://www.instagram.com/next1tcs>
-- <https://www.linkedin.com/in/next1tcs>
-- <https://www.twitter.com/next1tcs>
+More information about this setup you can find this linke below `How to Build Scalable Architecture for your Next.js Project`
+
+- <https://dev.to/alexeagleson/how-to-build-scalable-architecture-for-your-nextjs-project-2pb7#git-hooks>
 
 ## CLone
 
@@ -29,6 +27,6 @@ please also check my social networks with this tag`next1tecs`
 - Make sure `node` Is installed on your computer
 - Open Terminal with in the folder and type `yarn install` to install all
   dependecies
-- you should only user `yarn` not `npm`
+- you should only use `yarn` not `npm`
 - type `yarn run dev` to run the application on a local host
-- and dont forget to give this repo a star
+- and dont forget to give this repo a star 🌟
